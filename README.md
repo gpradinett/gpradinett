@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm fernando Gonzales</h1>
 <h3 align="center">A passionate junior software developer, I hope that my works are of interest to you.</h3>
 
+<p align="left"> <a href="https://twitter.com/gpradinett" target="blank"><img src="https://img.shields.io/twitter/follow/gpradinett?logo=twitter&style=for-the-badge" alt="gpradinett" /></a> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gpradinett&label=Profile%20views&color=0e75b6&style=flat" alt="gpradinett" /> </p>
 
 - I am currently learning C, Python, Javascript (my fav) 💻
@@ -12,8 +14,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-<p align="left"> <a href="https://twitter.com/gpradinett" target="blank"><img src="https://img.shields.io/twitter/follow/gpradinett?logo=twitter&style=for-the-badge" alt="gpradinett" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
