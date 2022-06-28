@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm fernando Gonzales</h1>
 <h3 align="center">A passionate junior software developer, I hope that my works are of interest to you.</h3>
-![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/212/cisfun.jpg)
+<p><img align"right" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width"500" height="320" /></p>
 
 - I am currently learning C, Python, Javascript (my fav) 💻
 
