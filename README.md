@@ -1,9 +1,9 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gpradinett&label=Profile%20views&color=0e75b6&style=flat" alt="gpradinett" /> </p>
+
 <h1 align="center">Hi 👋, I'm fernando Gonzales</h1>
 <h3 align="center">A passionate junior software developer, I hope that my works are of interest to you.</h3>
 
 <p align="left"> <a href="https://twitter.com/gpradinett" target="blank"><img src="https://img.shields.io/twitter/follow/gpradinett?logo=twitter&style=for-the-badge" alt="gpradinett" /></a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gpradinett&label=Profile%20views&color=0e75b6&style=flat" alt="gpradinett" /> </p>
 
 - I am currently learning C, Python, Javascript (my fav) 💻
 
