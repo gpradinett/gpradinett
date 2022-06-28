@@ -2,9 +2,8 @@
 <h3 align="center">A passionate junior software developer, I hope that my works are of interest to you.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gpradinett&label=Profile%20views&color=0e75b6&style=flat" alt="gpradinett" /> </p>
-/*
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gpradinett" alt="gpradinett" /></a> </p>
-/*
+
+
 <p align="left"> <a href="https://twitter.com/gpradinett" target="blank"><img src="https://img.shields.io/twitter/follow/gpradinett?logo=twitter&style=for-the-badge" alt="gpradinett" /></a> </p>
 
 ### Blogs posts
