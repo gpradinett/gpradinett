@@ -33,12 +33,12 @@
 
  Any comments or questions are more than welcome 😄
 
-@@@
+---------------------------------------------------------------------------------------------------------------------
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpradinett&show_icons=true&locale=en&layout=compact" alt="gpradinett" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gpradinett&show_icons=true&locale=en" alt="gpradinett" /></p>
-
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=gpradinett&show_icons=true&theme=radical">
+
+<img align="" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=gpradinett&layout=compact">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gpradinett&" alt="gpradinett" /></p>
 
