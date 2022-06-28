@@ -5,9 +5,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="55pc" height="55pc">, I'm fernando Gonzales</h1>
 <h3 align="center">A passionate junior software developer, I hope that my works are of interest to you.</h3>
 
-- I am currently learning C, Python, Javascript (my fav) 💻 
-
-<p><img align"right" alt="gif" src="https://process.filestackapi.com/cache=expiry:max/resize=width:700/efbSR18hT5uRKuo0zoMA" width"200" height="120" /></p>
+<h1 align="center">- I am currently learning C, Python, Javascript (my fav) 💻 <img src="https://c.tenor.com/sz5kGMx6EmUAAAAd/hacker-putin.gif" width="55pc" height="55pc"></h1>
 
 ### Languages & tools used and in development 🛠️
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
