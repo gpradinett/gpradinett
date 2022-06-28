@@ -31,7 +31,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gpradinett"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gpradinett" /></a><a href="https://ko-fi.com/gpradinett"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="gpradinett" /></a></p><br><br>
 
- Any comments or questions are more than welcome 😄
+Any comments or questions are more than welcome 😄
 
 ---------------------------------------------------------------------------------------------------------------------
 <img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=gpradinett&show_icons=true&theme=radical">
