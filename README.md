@@ -34,9 +34,7 @@
  Any comments or questions are more than welcome 😄
 
 ---------------------------------------------------------------------------------------------------------------------
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpradinett&show_icons=true&locale=en&layout=compact" alt="gpradinett" /></p>
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=gpradinett&show_icons=true&theme=radical">
+<img align="left" width="4333%" src="https://github-readme-stats.vercel.app/api?username=gpradinett&show_icons=true&theme=radical">
 
 <img align="" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpradinett&show_icons=true&locale=en&layout=compact">
 
