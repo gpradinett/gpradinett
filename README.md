@@ -38,7 +38,6 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=gpradinett&show_icons=true&theme=radical">
 
-<img align="" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=gpradinett&layout=compact">
+<img align="" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpradinett&show_icons=true&locale=en&layout=compact">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gpradinett&" alt="gpradinett" /></p>
 
