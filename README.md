@@ -7,7 +7,7 @@
 
 - I am currently learning C, Python, Javascript (my fav) 💻 
 
-<p><img align"center" src="https://process.filestackapi.com/cache=expiry:max/resize=width:700/efbSR18hT5uRKuo0zoMA" width"200" height="120" /></p>
+<p><img align"right" alt="gif" src="https://process.filestackapi.com/cache=expiry:max/resize=width:700/efbSR18hT5uRKuo0zoMA" width"200" height="120" /></p>
 
 ### Languages & tools used and in development 🛠️
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
