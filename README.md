@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm fernando Gonzales</h1>
 <h3 align="center">A passionate junior software developer, I hope that my works are of interest to you.</h3>
-![git imagen gif](https://user-images.githubusercontent.com/94254671/176112492-62bb5226-2f8c-42d8-9122-6670455e137a.gif)
+![git imagen gif]([https://user-images.githubusercontent.com/94254671/176112492-62bb5226-2f8c-42d8-9122-6670455e137a.gif](https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif)
 
 - I am currently learning C, Python, Javascript (my fav) 💻
 
