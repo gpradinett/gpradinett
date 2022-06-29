@@ -5,7 +5,7 @@
 
 <h4 align="left">I am currently learning C, Python, Javascript (my fav) 💻 <img align="right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="250px" height="250px"></h4>
 
-<h4> Languages & tools used and in development 🛠️</h4>
+ <h4 align="center"> Languages & tools used and in development 🛠️</h4>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
