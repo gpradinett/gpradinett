@@ -1,9 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gpradinett&label=Profile%20views&color=0e75b6&style=flat" alt="gpradinett" /> </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="55px" height="55px">, I'm fernando Gonzales</h1>
-<h3 align="center">🫧A passionate junior software developer, I hope that my works are of interest to you🫧.</h3>
+<h4 align="center">🫧A passionate junior software developer, I hope that my works are of interest to you🫧.</h4>
 
-<h3 align="left">I am currently learning C, Python, Javascript (my fav) 💻 <img align="right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="250px" height="250px"></h3>
+<h4 align="left">I am currently learning C, Python, Javascript (my fav) 💻 <img align="right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="250px" height="250px"></h4>
 
 ### Languages & tools used and in development 🛠️
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
