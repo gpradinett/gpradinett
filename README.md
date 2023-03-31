@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gpradinett&label=Profile%20views&color=0e75b6&style=flat" alt="gpradinett" /> align="right"> <img src="https://www.codewars.com/users/gpradinett/badges/small" />  </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gpradinett&label=Profile%20views&color=0e75b6&style=flat" alt="gpradinett" /> <img src="https://www.codewars.com/users/gpradinett/badges/small" />  </p>
 
 
 
