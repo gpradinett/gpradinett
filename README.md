@@ -5,6 +5,8 @@
 ## About Me
 I'm a passionate **junior software developer** currently learning and improving my skills in **C**, **Python**, and **JavaScript** (my favorite). I aim to contribute to meaningful projects and learn from the best.
 
+![Fernando's Coding](https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif)
+
 ### Current Focus
 - 🚀 Learning **C**, **Python**, **JavaScript**.
 - 📚 Improving my skills in **web development**, **algorithms**, and **data structures**.
